@@ -1,0 +1,15 @@
+07:47 AM 11/08/2012
+
+About to head to the last MN AE meeting.
+
+I'll be leading a discussion of where the group will be going in 2013, and thankfully, I won't be there to see it.
+
+I have accept the fact that it's time to move on.  
+
+Now - what can we talk about?
+
+* Tools (ACL, Tableau)
+* Techniques (Fraud Detection, IT Audits)
+** Managing the analytic workflow
+* Roundtables
+* Lightning Talks
