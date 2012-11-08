@@ -1,0 +1,20 @@
+01:28 PM 09/26/2012
+
+Script Development in ACL
+
+Background 
+ACL provides a basic language for performing any analysis in the product.  On a certain level, everything you can do with a dialog is technically possible in a script. 
+
+With great power comes great frustration.  Each line is a command, and using the simple scripting window makes it possible to repeat and revise tests for your project.  Any programming language worth its salt has a decent bug resoluion process.  ACL  does not.  When things go wrong, they go really wrong.  Best case scenario is that script fails, often with a cryptic warning.  Worst case?  ACL crashes.  Fortunately that doesn't happen very often.  
+
+Getting started with scripting is as easy as 1-2-3.
+
+1) Use Table History to generate a script.  Any table that's derived from other tables will have history in the log file, and ACL makes it easy to simply repeat those steps. Even the most complicated set of steps boil down to a simple series of tests run sequentially. 
+
+Once you have the script in front of you, you can start pulling the pieces out of the scripting language.
+
+2) Use Script recorder to generate a script.  A somewhat dicier proposition as commands don't actually fire while using the recorder.  However, this can make it easy to generate the dialog driven commands that are complex.
+
+3) Hand write the script line by line.  Usually reserved for the most masochistic, this approach using hand carved code can work around issues that don't have dialogs (group by) or issues where the program isn't headed in the right direction.  
+
+
